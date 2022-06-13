@@ -1,0 +1,18 @@
+{
+  "name": "res-dota-heroes",
+  "version": "0.1.0",
+  "reason": { "react-jsx": 3 },
+  "bs-dependencies": ["@rescript/react", "bs-fetch"],
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "package-specs": {
+    "module": "es6-global",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "warnings": {
+    "error": "+101"
+  }
+}
