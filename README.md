@@ -1,1 +1,1 @@
-# res-experiments
+# res-dota-heroes
